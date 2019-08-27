@@ -1,0 +1,12 @@
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined resave option; provide resave option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined resave option; provide resave option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined resave option; provide resave option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT body-parser deprecated undefined extended: provide extended option at app.js:31:20
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined resave option; provide resave option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:25:9
+Mon, 12 Aug 2019 16:00:07 GMT body-parser deprecated undefined extended: provide extended option at app.js:31:20
+Mon, 12 Aug 2019 16:00:07 GMT body-parser deprecated undefined extended: provide extended option at app.js:31:20
+Mon, 12 Aug 2019 16:00:07 GMT body-parser deprecated undefined extended: provide extended option at app.js:31:20
